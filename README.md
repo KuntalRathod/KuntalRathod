@@ -11,7 +11,7 @@
                         
 - 🔭 I’m currently working on **Making Responsive Web designs & JavaScript/React based Projects**
 
-- 🌱 I’m currently learning **JavaScript,React,NextJs,MERN Stack Development**
+- 🌱 I’m currently learning **JavaScript,MERN Stack**
 
 - 👯 I’m looking to collaborate on **different projects to learn new things.** 
 
