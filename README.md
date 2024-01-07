@@ -9,9 +9,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
                         
-- 🔭 I’m currently working on **Making Responsive Web designs & JavaScript/React based Projects**
+- 🔭 I’m currently working on ** JavaScript/React based Projects**
 
-- 🌱 I’m currently learning **JavaScript,MERN Stack**
+- 🌱 I’m currently learning **Backend development**
 
 - 👯 I’m looking to collaborate on **different projects to learn new things.** 
 
