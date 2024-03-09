@@ -14,6 +14,8 @@
 
 - 💬 Ask me about **Html,Css,JavaScript,ReactJs**
 
+- 💫I’m looking to collaborate on Full-Stack Developer Roles
+
 - ⚡**What kept me on this journey is that I always find learning <br> new things exciting and facing unfamiliar challenges.<br>**  
 
 ## 🌐 Socials:
