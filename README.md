@@ -1,10 +1,6 @@
+ <h2 align="center">नमस्ते (Namaste)🙏🏻, I am  Kuntal Rathod!</h2>
 
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
-
-<h1 align="center">Hi 👋, I'm Kuntal Rathod</h1>
-
-<h3 align="center">A Curious & passionate frontend Web developer from India.</h3>
-
+<h3 align="center">A Curious & passionate Full Stack Developer from India.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
@@ -31,16 +27,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kuntalrathod&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kuntalrathod&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kuntalrathod&icon=0&color=2)](https://visitcount.itsvg.in)
+
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
