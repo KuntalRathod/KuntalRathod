@@ -2,9 +2,6 @@
 
 <h3 align="center">A Curious & passionate Full Stack Developer from India.</h3>
 
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
-
 # 💫 About Me:                        
 - 🌱 I’m currently learning **NextJs,TypeScript**
 
@@ -26,7 +23,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kuntalrathod&icon=0&color=2)](https://visitcount.itsvg.in)
-
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
