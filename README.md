@@ -58,7 +58,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kuntalrathod77">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://linkedin.com/in/kuntalrathod">
+  <a href="https://www.linkedin.com/in/kuntal-rathod-b5ba5a239/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://twitter.com/KuntalRathod77">
