@@ -24,12 +24,12 @@
   </a>
 </p>
 
-- DevOps
+<!--- DevOps
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker" />
   </a>
-</p>
+</p> -->
 
 - **Backend As a Service**
 <p align="left">
