@@ -6,14 +6,14 @@
 - **Frontend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,,redux,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,tailwind" />
   </a>
 </p>
 
 - **Backend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,bun" />
   </a>
 </p>
 
@@ -41,12 +41,12 @@
 - **Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel,bun,vite,npm,restapi" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel,vite,npm,restapi" />
   </a>
 </p>
 
 # 💫 About Me:                        
-- 🌱 I’m currently learning **NextJs,TypeScript**
+- 🌱 I’m currently practicing **interview-based-questions**
 
 - 💬 Ask me about **Html,Css,JavaScript,ReactJs**
 
