@@ -55,9 +55,9 @@
 - ⚡**What kept me on this journey is that I always find learning <br> new things exciting and facing unfamiliar challenges.<br>**  
 
 <h3>Connect with me: </h3>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kuntalrathod77">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<a href="mailto:kuntalrathod77@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
   <a href="https://www.linkedin.com/in/kuntalrathod/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
