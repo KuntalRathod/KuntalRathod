@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/kuntalrathod/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/KuntalRathod77">
+  <a href="https://x.com/KuntalRathod77">
   <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Logo" />
 </a>
 
