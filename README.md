@@ -46,9 +46,9 @@
 </p>
 
 # 💫 About Me:                        
-- 🌱 I’m currently practicing **interview-based-questions**
+- 🌱 I’m currently practicing **and solving different kinds of problem using JavaScript**
 
-- 💬 Ask me about **Html,Css,JavaScript,ReactJs**
+- 💬 Ask me about **Html,Css,JavaScript,React.Js,Node.Js,Express.Js,MongoDB**
 
 - 💫I’m looking to collaborate on Full-Stack Developer Roles
 
