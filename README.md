@@ -46,7 +46,7 @@
 </p>
 
 # 💫 About Me:                        
-- 🌱 I’m currently practicing **and solving different kinds of problem using JavaScript**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Html,Css,JavaScript,React.Js,Node.Js,Express.Js,MongoDB**
 
