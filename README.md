@@ -6,7 +6,7 @@
 - **Frontend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,redux,tailwind" />
   </a>
 </p>
 
