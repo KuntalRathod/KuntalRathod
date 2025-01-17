@@ -7,13 +7,13 @@
 
  <h2 align="center">नमस्ते (Namaste)🙏🏻, I am  Kuntal Rathod!</h2>
 
-<h3 align="center">A Curious & passionate Full Stack Developer from India.</h3>
+<h3 align="center">A Curious & passionate MERN Stack Developer from India.</h3>
 
 # 💻 Languages and Tools:
 - **Frontend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,redux,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,tailwind" />
   </a>
 </p>
 
@@ -38,12 +38,12 @@
   </a>
 </p> -->
 
-- **Backend As a Service**
+<!--- - **Backend As a Service**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=appwrite,firebase" />
   </a>
-</p>
+</p>  --->
 
 - **Tools**
 <p align="left">
