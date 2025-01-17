@@ -1,9 +1,11 @@
 ## Top Projects
 
-| Repository 1 | Repository 2 |
+| Learned this Projects by | 🚀Buidling them |
 |--------------|--------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuntalRathod&repo=MovieHub&theme=tokyonight&description_lines_count=3)](https://github.com/KuntalRathod/MovieHub) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuntalRathod&repo=YouTube-Backend&theme=tokyonight&description_lines_count=3)](https://github.com/KuntalRathod/YouTube-Backend) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuntalRathod&repo=PatientCare_BACKEND_DEPLOYMENT&theme=tokyonight&description_lines_count=3)](https://github.com/KuntalRathod/PatientCare_BACKEND_DEPLOYMENT) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuntalRathod&repo=AnotherRepo&theme=tokyonight&description_lines_count=3)](https://github.com/KuntalRathod/AnotherRepo) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuntalRathod&repo=MovieHub&theme=tokyonight&description_lines_count=3&card_width=400)](https://github.com/KuntalRathod/MovieHub) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuntalRathod&repo=YouTube-Backend&theme=tokyonight&description_lines_count=3&card_width=400)](https://github.com/KuntalRathod/YouTube-Backend) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuntalRathod&repo=PatientCare_BACKEND_DEPLOYMENT&theme=tokyonight&description_lines_count=3&card_width=400)](https://github.com/KuntalRathod/PatientCare_BACKEND_DEPLOYMENT) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuntalRathod&repo=PatientCare_FRONTEND_DEPLOYMENT&theme=tokyonight&description_lines_count=3&card_width=400)](https://github.com/KuntalRathod/PatientCare_FRONTEND_DEPLOYMENT) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuntalRathod&repo=PatientCare_DASHBOARD_DEPLOYMENT&theme=tokyonight&description_lines_count=3&card_width=400)](https://github.com/KuntalRathod/PatientCare_DASHBOARD_DEPLOYMENT) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuntalRathod&repo=Giphy-clone&theme=tokyonight&description_lines_count=3&card_width=400)](https://github.com/KuntalRathod/Giphy-clone) |
+
 
 
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
