@@ -12,49 +12,6 @@
 
 <h3 align="center">A Curious & passionate MERN Stack Developer from India.</h3>
 
-# 💻 Languages and Tools:
-- **Frontend**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,tailwind" />
-  </a>
-</p>
-
-- **Backend**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,bun" />
-  </a>
-</p>
-
-- **Database**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-  </a>
-</p>
-
-<!--- DevOps
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker" />
-  </a>
-</p> -->
-
-<!--- - **Backend As a Service**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=appwrite,firebase" />
-  </a>
-</p>  --->
-
-- **Tools**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel,vite,npm,restapi" />
-  </a>
-</p>
-
 
 
 <h3>Connect with me: </h3>
@@ -69,4 +26,3 @@
 </a>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
