@@ -7,22 +7,8 @@
   />
 </p>
 
-
  <h2 align="center">नमस्ते (Namaste)🙏🏻, I am  Kuntal Rathod!</h2>
 
 <h3 align="center">A Curious & passionate MERN Stack Developer from India.</h3>
-
-
-
-<h3>Connect with me: </h3>
-<a href="mailto:kuntalrathod77@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-</a>
-  <a href="https://www.linkedin.com/in/kuntalrathod/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://x.com/KuntalRathod77">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Logo" />
-</a>
 
 
