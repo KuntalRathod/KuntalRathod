@@ -55,14 +55,7 @@
   </a>
 </p>
 
-# 💫 About Me:                        
-<!--  - 🌱 I’m currently learning **Docker** -->
 
-- 💬 Ask me about **Html,Css,JavaScript,React.Js,Node.Js,Express.Js,MongoDB**
-
-- 💫I’m looking to collaborate on Full-Stack Developer Roles
-
-- ⚡**What kept me on this journey is that I always find learning <br> new things exciting and facing unfamiliar challenges.<br>**  
 
 <h3>Connect with me: </h3>
 <a href="mailto:kuntalrathod77@gmail.com">
