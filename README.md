@@ -68,11 +68,5 @@
   <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Logo" />
 </a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kuntalrathod&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kuntalrathod&theme=vue-dark&hide_border=true)<br/>
-
----
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
