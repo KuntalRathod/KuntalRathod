@@ -2,7 +2,7 @@
 
  <h2 align="center">नमस्ते (Namaste)🙏🏻, I am  Kuntal Rathod!</h2>
 
-<h3 align="center">A Curious & passionate MERN Stack Developer from India.</h3>
+<h3 align="center">A Curious & passionate Full Stack Developer from India.</h3>
 <h5 align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KuntalRathod&theme=aura" alt="GitHub Streak" /></a>
 </h5>
