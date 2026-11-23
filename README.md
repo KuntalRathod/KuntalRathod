@@ -16,7 +16,7 @@ I build **full-stack products, financial workflows, and tested business logic** 
 
 **Full-stack Developer at ThinkerSky Technologies** since **February 2025**, building enterprise financial and operational software: multi-currency workflows, reporting and approvals. <br>
 
-**3 products shipped solo**, each built from requirements to a deployed app. Based in **Rajkot**, **open to SDE-1 roles** and to relocating anywhere in **India**.
+**4 products shipped solo**, each built from requirements to a deployed app. Based in **Rajkot**, **open to SDE-1 roles** and to relocating anywhere in **India**.
 
 ### Tech Stack
 
@@ -54,6 +54,8 @@ I build **full-stack products, financial workflows, and tested business logic** 
 - Built **[PaperKit](https://paperkit-cyan.vercel.app)** - **34 PDF tools** that run entirely in the browser with **no uploads and no watermarks**, using client-side WebAssembly
 
 - Built **[FreshKart](https://freshkart-2b3q.onrender.com)** - a **MERN grocery platform** with **Stripe checkout**, a guest cart that merges on login, and an admin dashboard with analytics
+
+- Built **[Draftboard](https://github.com/KuntalRathod/draftboard)** - a **free vector design editor in the browser** with an infinite canvas, layers, undo/redo and **export to SVG, PNG, WEBP and PDF**, with **no account and no uploads**
 
 - At **ThinkerSky**, building **multi-currency financial workflows** (forward contracts, MTM calculations, daily accruals, settlements) with transactional integrity and audit logging
 
@@ -107,6 +109,26 @@ I build **full-stack products, financial workflows, and tested business logic** 
 <b>MERN Grocery Store</b><br>
 <a href="https://freshkart-2b3q.onrender.com">Live</a> · <a href="https://github.com/KuntalRathod/FreshKart">Code</a>
 </td>
+
+</tr>
+<tr>
+
+<td align="center" width="33%" valign="top">
+<table width="155" cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://github.com/KuntalRathod/draftboard">
+<img src="https://img.shields.io/badge/DRAFTBOARD-2563EB?style=for-the-badge&logo=react&logoColor=FFFFFF" height="28" alt="Draftboard">
+</a>
+</td>
+</tr>
+</table>
+<b>Vector Design Editor</b><br>
+<a href="https://github.com/KuntalRathod/draftboard">Code</a>
+</td>
+
+<td width="33%"></td>
+<td width="33%"></td>
 
 </tr>
 </table>
